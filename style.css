@@ -13,4 +13,7 @@ body {
     background-color: lightcoral;
     padding-top: 5em;
 }
+#addBtn{
+    background-color: black;
+}
 

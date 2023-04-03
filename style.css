@@ -9,7 +9,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover ;
     background-attachment: fixed;
-    background-color: #fcb045;
+    /* background-color: #fcb045; */
+    background-color: lightcoral;
     padding-top: 5em;
 }
 
